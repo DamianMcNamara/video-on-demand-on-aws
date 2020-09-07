@@ -11,7 +11,7 @@
         "UnregisteredSeiTimecode": "DISABLED",
         "FramerateControl": "SPECIFIED",
         "CodecProfile": "MAIN_MAIN",
-        "FramerateDenominator": 1001,
+        "FramerateDenominator": 1000,
         "QvbrSettings": {
           "QvbrQualityLevel": 8
         },

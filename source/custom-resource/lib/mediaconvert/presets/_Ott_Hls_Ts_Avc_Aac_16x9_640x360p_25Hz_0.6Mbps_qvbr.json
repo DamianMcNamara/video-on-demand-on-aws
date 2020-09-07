@@ -7,12 +7,12 @@
          "SpatialAdaptiveQuantization": "ENABLED",
          "TemporalAdaptiveQuantization": "ENABLED",
          "Syntax": "DEFAULT",
-         "FramerateNumerator": 30000,
+         "FramerateNumerator": 25000,
          "MinIInterval": 0,
          "UnregisteredSeiTimecode": "DISABLED",
          "FramerateControl": "SPECIFIED",
          "NumberReferenceFrames": 3,
-         "FramerateDenominator": 1001,
+         "FramerateDenominator": 1000,
          "QvbrSettings": {
            "QvbrQualityLevel": 7
          },

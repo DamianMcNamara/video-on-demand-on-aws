@@ -13,7 +13,7 @@
         "UnregisteredSeiTimecode": "DISABLED",
         "FramerateControl": "SPECIFIED",
         "NumberReferenceFrames": 3,
-        "FramerateDenominator": 1001,
+        "FramerateDenominator": 1000,
         "QvbrSettings": {
           "QvbrQualityLevel": 8
         },
